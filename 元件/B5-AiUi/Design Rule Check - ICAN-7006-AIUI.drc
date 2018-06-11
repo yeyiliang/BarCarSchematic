@@ -1,0 +1,26 @@
+Protel Design System Design Rule Check
+PCB File : D:\iCAN\Products\ICAN-7006\î≠íç\20180402\BOARD\å≥åè\B5-AiUi\ICAN-7006-AIUI.PCBDOC
+Date     : 2018/4/18
+Time     : 11:46:15
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=8mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:01
